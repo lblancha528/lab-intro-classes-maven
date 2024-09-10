@@ -26,9 +26,13 @@ public class BFExperiment {
     f1 = new BigFraction(3, 10);
     BigFraction f2;
     f2 = new BigFraction(2, 5);
+    BigFraction f3 = f1.multiply(f2);
+    BigFraction f4 = new BigFraction(11, 3);
     pen.println("First fraction: " + f1);
     pen.println("Second fraction: " + f2);
+    pen.println("Third fraction: " + f3);
     pen.println("Sum: " + (f1.add(f2)));
+    pen.println("Fourth fraction: " + f4.fractional());
     pen.close();
   } // main(String[])
 } // class BFExperiment
