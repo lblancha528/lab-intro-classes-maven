@@ -4,9 +4,10 @@ Some explorations with the basics of classes in Java
 
 ---
 
-YOUR NAMES HERE
+Lily Blanchard
+Alex Cyphers
 
-We got through Exercise: ###
+We got through Exercise: 3
 
 ACKNOWLEDGEMENTS
 
